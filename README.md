@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/debora-suzuki/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="debora-suzuki" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/debora-suzuki/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="debora-suzuki" height="25" width="25" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
