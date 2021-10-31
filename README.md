@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deborasuzuki&label=Profile%20views&color=0e75b6&style=flat" alt="deborasuzuki" /> </p>
 
-- 🔭 I’m currently working on **MG Gestões on Client Portal**
+- 🔭 I’m currently working on **MG Gestões**
 
 - 👨‍💻 All of my projects are available at [https://deborasuzuki.netlify.app//](https://deborasuzuki.netlify.app//)
 
@@ -23,5 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deborasuzuki&show_icons=true&locale=en" alt="deborasuzuki" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deborasuzuki&" alt="deborasuzuki" /></p>
 
