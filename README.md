@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deborasuzuki&label=Profile%20views&color=0e75b6&style=flat" alt="deborasuzuki" /> </p>
 
-- 🔭 I’m currently working on **MG Gestões**
+<!-- - 🔭 I’m currently working on **MG Gestões** -->
 
-- 👨‍💻 All of my projects are available at [https://deborasuzuki.netlify.app//](https://deborasuzuki.netlify.app//)
+- 👨‍💻 Some of my projects are available at [https://deborasuzuki.netlify.app//](https://deborasuzuki.netlify.app//)
 
 - 💬 Ask me about **Sass, JavaScrip, TypeScript, Angular, Ionic...**
 
