@@ -7,7 +7,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://deborasuzuki.netlify.app//](https://deborasuzuki.netlify.app//)
 
-- 💬 Ask me about **Sass, JavaScript, TypeScript, Angular, Ionic...**
+- 💬 Ask me about **Sass, JavaScript, TypeScript, Angular, Ionic, ReactJS**
 
 - 📫 How to reach me **deborayszk@gmail.com**
 
