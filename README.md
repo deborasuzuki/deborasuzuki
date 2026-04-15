@@ -15,7 +15,7 @@ Frontend Engineer specialized in Angular, focused on building scalable and real-
 - Ionic
 - HTML / Sass
 - REST APIs
-- Git / Scrum
+- Git
 - AWS (Cognito, S3, Lambda)
 
 ## 🏢 Experience highlights
